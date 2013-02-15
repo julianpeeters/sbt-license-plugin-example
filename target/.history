@@ -1,0 +1,110 @@
+formatLicenseHeaders
+licese
+license
+tasks -V
+exit
+tasks -V
+exit
+formatLicenseHeaders
+run
+scripted
+formatLicenseHeaders
+format-license-headers
+check-for-license
+license
+reload
+removeLicenseHeaders
+removeExistingHeaderBlock
+mit
+license
+set license := "hello!!"
+q
+quit
+exit
+set license
+license
+set license "hello"
+set license = ]"hello"
+set license = "hello"
+license
+reload
+set license := "Hello#"
+set LicenseKeys.license := "Hello#"
+license
+licenses
+apache
+reload
+license
+apache
+mit
+MIT
+license.MIT
+Licenses.apache2
+licenses
+license:licenses
+license:apache2
+apache2
+copywrite
+reload
+set license := "ja!"
+license
+set LicenseKeys.license := "Hello#"
+license
+reload
+license
+exit
+license
+reload
+license
+mit
+license:mit
+reload
+license
+r
+reload
+license
+reload
+license
+reload
+license
+tasks -V
+defined-sbt-plugins
+license
+exit
+license
+exit
+license
+tasks -V
+tasks
+format-license-headers
+exit
+formatLicenseHeaders
+exit
+tasks
+taks
+tasks
+exit
+run
+tasks
+formatLicenseHeaders
+compile
+exit
+run
+checkForLicense
+tasks
+formatLicenseHeaders
+license
+reload
+license
+reload
+license
+reload
+license
+reload
+r
+reload
+license
+reload
+exit
+license
+exit
